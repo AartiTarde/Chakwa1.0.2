@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: 70665dc6e6a1cf648a176514dd3f364b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UISpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 646
+        width: 173
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7290c67e29b5ed4f8dc063c77f17e86
+      internalID: 1840612102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 492
+        width: 257
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa317c45c87f784cbd4e7a08e46ddf8
+      internalID: 1652458541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 756
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f084b8477a3b4c9f426567179ae54
+      internalID: 1773685818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 756
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c573c0aab8764640b891a1d68b59e8e
+      internalID: -1127583663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 756
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f8693426a8d1469c4cca3726b47fc
+      internalID: 1690619728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 756
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c29954cda03dd4682f88f7a293310a
+      internalID: -30047941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 756
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb957bf289f8454cb7a69221fa3c36f
+      internalID: 592408166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 756
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2d3be76b0b2ad4897de08141df2810
+      internalID: 91377990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 756
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7ebbb046b9824790a60cba0add1a7
+      internalID: 1560900600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 756
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d46f78b05b054e99184ae19f90d72
+      internalID: -23000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 756
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845daf22b287e54985005c008b50f90
+      internalID: -1997182693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 774
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf87f14e066e24ca1eca6fc112db08
+      internalID: -504843131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 752
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e250cd3a627d434993f44f44166902f
+      internalID: -1595547693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 648
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c6e9dda382274ab600fdcc4b0ef99
+      internalID: 2027939699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 606
+        width: 364
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a7ed03f3e8494fa8b16e97eb33ebe
+      internalID: 558659521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 606
+        width: 368
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36338ed59388f6d45a8cba0c617467b6
+      internalID: 1160873393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 662
+        width: 442
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0cc681744d2b4b91edf1f478829c6
+      internalID: 265084453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 727
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba23fd1d016484a8e4dd5731553a8a
+      internalID: 1037547920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 734
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f088a31ea5d4479c8cebeed452d1f
+      internalID: -1991735358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 691
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774d0adcf21949438ae53b95aa4e4b1
+      internalID: 1387752026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 666
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6c0a5fe30c8f4693dc53b5ea4a841
+      internalID: -1630902008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 690
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78caf8232733e4b81a0c538abec255
+      internalID: -1829191039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 619
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417dac85edb4b1840ac5c36a74a092bd
+      internalID: -614305459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 544
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e1266515456c4fac365dcb9936bc7
+      internalID: 493169936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 510
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72c4d3c92a67946a46f30cc3535bee
+      internalID: 518036295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 531
+        width: 468
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a92cefde7bfd4faf36876aa13783b
+      internalID: 1128793853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 626
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed760ab96eb1974daa5ee65b81834fb
+      internalID: 1365615400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 522
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd761b0a3c4ed44aa8e490c1b4b3474
+      internalID: 188792989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 522
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98f076dcc5c274b9224f2febf4fe25
+      internalID: -1329341173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 526
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36426f08271f84fb59893f2c240a7b
+      internalID: 1911405994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 522
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454494a4f346c644e920497ab1934707
+      internalID: 55733302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 522
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7275b88aee11164796ecb61fe30a492
+      internalID: -350185617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 528
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b75ce6fb8d6c1f47b37a9edcba2d3d1
+      internalID: 1472794428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 528
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5988683fc639b45932973492cfc9ef
+      internalID: -2146945517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 528
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06834d15ba63f4d4dba1dfeec71c746e
+      internalID: 2125603382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 498
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876ddb7186ad9540af36e8167ff5e16
+      internalID: -673145732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 547
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654e7bff1cef1a4786bc8f13d21fbb7
+      internalID: 1233124271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 338
+        width: 557
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c740b7cbc4834943a9f580d53dde654
+      internalID: -681455735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 498
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696b8fd433d8a34fac7ba600da700f3
+      internalID: 750737033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 509
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d953356c76d8b4fa141e6f0fcbdefe
+      internalID: -965294949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f153a9c386a842b43e96546a14442
+      internalID: 1387670013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 504
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956564395de73341a495e2fa367fc55
+      internalID: -1691995134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 408
+        width: 204
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e774330810a24d8d3faef296d3f35
+      internalID: 46406782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 498
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a524f489263a444bb4167d0e455fd08
+      internalID: 967652206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 498
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37155a15e7ca3224690b146f1cbc7d2b
+      internalID: -640595610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 498
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351272512e5c91439aca30e62ab76c7
+      internalID: 1065802008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 371
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42838b103f37b474695a85b0b2909f1f
+      internalID: -2095435358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 498
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d1abeb266ffc748a0822d922154241
+      internalID: 1881568612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 480
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d99b8779f80d4496366346841dffc
+      internalID: -745762824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72c9a01e170f244ae082f009a60faf
+      internalID: -1613477523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 498
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f233b232ef9c45b008ce581a74c52
+      internalID: 1849416097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 498
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b593d4f3e05b8b43860df78285fb23f
+      internalID: 1419666883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 492
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffc88b4552daa40b44ef403a8cee3a
+      internalID: -2044978038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 492
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc84d3ca5f8614c803b801f8d902b4
+      internalID: -563381556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 437
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa54efecb40814c83dd4d3a59f397e
+      internalID: -763493865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 423
+        width: 109
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f5ab15e662364abfacd9a019390e0
+      internalID: -571879880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 449
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1d00d063a36f4482428a5a167aed0
+      internalID: -838427876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 485
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d50351ca19ee34c88fb746c867400e
+      internalID: -315718350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 435
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35aee52b2da8a44eb0def30e69df80b
+      internalID: -434752438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 454
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b674ce59c0996b459327a6728e05b33
+      internalID: -296401998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 462
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300fb092d154adf4088bc894cc6dcf28
+      internalID: -1170911610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 480
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519eb2d912e33447a0a1d9f04c27359
+      internalID: -277712951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 378
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda975a04d9b1847ae933b2c31a246e
+      internalID: 763216766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 348
+        width: 121
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa9f5bc509185468369a9a7ca5b5fb
+      internalID: 170320930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 458
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631d3a09503a1e4b9206011eb67cb07
+      internalID: -975750171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 440
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6d6f70bdc2e04981baaec0d0d5fa6
+      internalID: -1767408171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 402
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565eef41535dbbb4296df775124bddd5
+      internalID: -1398680257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 372
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e761a015059146ac1dc5be9da6a06
+      internalID: 420904954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 378
+        width: 122
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877e3e1169d369459b1142719c5d1f2
+      internalID: 939527921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 452
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b9be53718d834f8ccc1c3008db37e
+      internalID: 1850453912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 445
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05487f8390c544980c85e7596962b0
+      internalID: -493336635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 428
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e47f7375d41942905fe64ed8e4478
+      internalID: -1872483691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 402
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69691da80e391684a905168ed31660f4
+      internalID: -400106511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 414
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f1e97c69b949244a8d4355ef9a800b
+      internalID: -112811751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 311
+        width: 237
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35144b415f229fb4393b231c94e6d58e
+      internalID: 1974224892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 246
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d37690aedab14085e6256eac248ec
+      internalID: -382837758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 402
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c2aee5a5d16f4cb237a9d8ce32633
+      internalID: 1868407101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 366
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55227e257257391478b5331bc80fb1a8
+      internalID: 1527257257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 346
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6772c90c47104a9d29baff5c2044a
+      internalID: -1561280094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 330
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40453c38c81dd1742b9aeb50cc136803
+      internalID: 2101119534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 319
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e041b5b5e5e184e932c0926fdd3eb2
+      internalID: 2095438984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75a65a2817f7244dbaf852780f39155
+      internalID: 153603483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 355
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee8273762d459c4eb661f1f782ec00a
+      internalID: -360400430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 308
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3f1cb4d818ec4296b9c3205938de3
+      internalID: -100315134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 346
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b9b28d719d3394dbe9654d33a23b4a
+      internalID: 1259052978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 361
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0145540474c451d4691935d1a792e1c1
+      internalID: -322306717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51ed4b55f413945acbf8aa4dd2658c
+      internalID: 527259979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 294
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b726498b15d74a82929624b3354a7
+      internalID: -1535016812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109fc3e52e6d9645bfe3daa71e6037d
+      internalID: 10565987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 355
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c2bee194dbdb40b27faf6e8da441d
+      internalID: -456375702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 336
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132681b00e643947bb2cb3b60ef6f63
+      internalID: 635253281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 338
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a93ef36df9bc149b696d30f353378d
+      internalID: 985039794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 273
+        width: 233
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca40812f27c2540999f8bfe3aae52d
+      internalID: -1670955285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 292
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e845094d2643224b9f55e3d9dcce5a6
+      internalID: -127266302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 341
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2029d5a1f68ae54b8e267e001063147
+      internalID: 2139375997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 318
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30580d56ba675d44b89d71a2e33f98f9
+      internalID: 1839243413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 260
+        width: 118
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b57d82d9316b4eafb2136004f4bba
+      internalID: -950415652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 193
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b7f3d4141ac52459e7df4ad4d26dc4
+      internalID: -2084862060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7317f20e412ed84390fa4560cc0f823
+      internalID: -1899057002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 235
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a0f06df11f7bc4dbea2b7d1e4d6663
+      internalID: -974055167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 300
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e6c6bc90313241b8a0c7b01d98efe
+      internalID: 769112058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 317
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704939f6e47ea74ba60ecaafceeeb95
+      internalID: -525868775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 241
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1d4ba525d58a47af8e4115fd7281b
+      internalID: -119507811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 298
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154e722f6816eb409fdb104fb50ab2b
+      internalID: 1789076798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8682f985735c4b4aa48de77c18599aa
+      internalID: -565707880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7cca204bb61b4ba7a652501ded9ed
+      internalID: 911258942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 292
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9ea8a001c73542be1980842401a06
+      internalID: -264191675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 296
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f50fbc21100484eb27292519d3a4a1
+      internalID: -1186424098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 192
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963b86f601d3e84d885b65aa481f3c1
+      internalID: -1506858078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebbff7f7ea24aa40a573a44ed2c1cc7
+      internalID: 887540766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 241
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb1461e6e4e50c4dafb538a95afe29e
+      internalID: -834501299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 235
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f086ef07e2fe41a3432d8f513e2d1
+      internalID: 771192882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 210
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c2d3a1980b984f8578dc56b8d2b54
+      internalID: 1999108172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 240
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f021bf53db9a240841887c895d042a
+      internalID: 1200027474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 235
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4c7d957d189344a0b9b144d8235b7
+      internalID: -349965612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 235
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3ed1a95dd36544bc4c1486af54cec
+      internalID: -2051005530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 292
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48047bf0c85cc1e4bb40c9b6ff2c6606
+      internalID: 891821688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 292
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8c0b384485ba43845231f7d5c34e3
+      internalID: 1726251029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 284
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38b6d192528b343bf9e3262658ec5b
+      internalID: 1411174455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 271
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0a50641c95a1489725ecb59e53831
+      internalID: -1258912878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 213
+        width: 149
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7022906ffcfd24bb75cac5cbb04105
+      internalID: 653749044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 210
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a9df30030456479a36b87b4f80f77
+      internalID: 764071084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 231
+        width: 156
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776581df3661e542acd1b32b5a41d60
+      internalID: -223915210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 172
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16452a81deb51c840af6897541ce2496
+      internalID: 1590317492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 241
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0ba32329e47b48ab9feb718dc6ce2
+      internalID: 1628870686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 141
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f043286cb35174cac5e2e1b92cf937
+      internalID: -755624275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 45
+        width: 157
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176be68b4edfc44a9710124706d21e5
+      internalID: -1763297151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 187
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9b4bda62732c4f8bcba84b5dd66c2
+      internalID: 212292183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 45
+        width: 156
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30531bef3ffeac4a81cad413de5bbf1
+      internalID: 780892561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45124b06c57d15498112a67d93d99c2
+      internalID: -1271636865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 14
+        width: 179
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1820e075cac95744ea086bdd8544900f
+      internalID: -1778478081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17bfdaba6d405a489c073395b770986
+      internalID: 1811506081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 54
+        width: 583
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2122b2b3ba1a489fb260ccc6f824a
+      internalID: 1468161700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 210
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b752fa04ef6d4d992eee4f4808b27
+      internalID: 1006181469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 176
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a35625193c8df4cb23028513ca16b6
+      internalID: -475408652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 212
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a96240b9e64d4aa0fedafca44c14d
+      internalID: 78421491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 204
+        width: 48
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89791a08ef1e384fa4f12096fb93109
+      internalID: 587195039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 152
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b092f6efd37d674c8c1d92f78f86433
+      internalID: -555507478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 138
+        width: 437
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca73f6eabcce647a6b351d2efdd84a
+      internalID: 1705841305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 173
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ca36d06cbed44f9b81ec6afd3b793
+      internalID: -1993748502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 180
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3761764eb192844886509c58fad428d
+      internalID: 1674876975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 186
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939de47397106834bbda165f4f72bee7
+      internalID: 797169823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 144
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d3d0b14b90d548947fcc4a47da438
+      internalID: 1016652075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 25
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6663ddc84f66f44aadec1e3c906787
+      internalID: 1260556101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc173ff2210fb1544bbb913b47079881
+      internalID: -1629056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 36
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48ce064cd4de54db16a1a044d2ac3b
+      internalID: 1773265328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb78d11019ab1c488bb6dfd23cf7f4c
+      internalID: 1394527021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 26
+        width: 465
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51eaa91fb8371043898a9ca696152fe
+      internalID: -832883214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fd430e9d568849b19c078ff250f61
+      internalID: 1367825303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0565d38c2dc7b42a272aca505477ef
+      internalID: 1443833498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 26
+        width: 121
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8a8def169b174a80b71d407ae08c8
+      internalID: 1829219458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26
+        width: 138
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c862675c1f6ae274c92d2cd9e057d664
+      internalID: -1896307809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UISpritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 26
+        width: 209
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb24eda5650913479f277bfdbf40486
+      internalID: -740962945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8731e3250aab3e9419d4fba726a500ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UISpritesheet_0: 1840612102
+      UISpritesheet_1: 1652458541
+      UISpritesheet_10: -1997182693
+      UISpritesheet_100: 769112058
+      UISpritesheet_101: -525868775
+      UISpritesheet_102: -119507811
+      UISpritesheet_103: 1789076798
+      UISpritesheet_104: -565707880
+      UISpritesheet_105: 911258942
+      UISpritesheet_106: -264191675
+      UISpritesheet_107: -1186424098
+      UISpritesheet_108: -1506858078
+      UISpritesheet_109: 887540766
+      UISpritesheet_11: -504843131
+      UISpritesheet_110: -834501299
+      UISpritesheet_111: 771192882
+      UISpritesheet_112: 1999108172
+      UISpritesheet_113: 1200027474
+      UISpritesheet_114: -349965612
+      UISpritesheet_115: -2051005530
+      UISpritesheet_116: 891821688
+      UISpritesheet_117: 1726251029
+      UISpritesheet_118: 1411174455
+      UISpritesheet_119: -1258912878
+      UISpritesheet_12: -1595547693
+      UISpritesheet_120: 653749044
+      UISpritesheet_121: 764071084
+      UISpritesheet_122: -223915210
+      UISpritesheet_123: 1590317492
+      UISpritesheet_124: 1628870686
+      UISpritesheet_125: -755624275
+      UISpritesheet_126: -1763297151
+      UISpritesheet_127: 212292183
+      UISpritesheet_128: 780892561
+      UISpritesheet_129: -1271636865
+      UISpritesheet_13: 2027939699
+      UISpritesheet_130: -1778478081
+      UISpritesheet_131: 1811506081
+      UISpritesheet_132: 1468161700
+      UISpritesheet_133: 1006181469
+      UISpritesheet_134: -475408652
+      UISpritesheet_135: 78421491
+      UISpritesheet_136: 587195039
+      UISpritesheet_137: -555507478
+      UISpritesheet_138: 1705841305
+      UISpritesheet_139: -1993748502
+      UISpritesheet_14: 558659521
+      UISpritesheet_140: 1674876975
+      UISpritesheet_141: 797169823
+      UISpritesheet_142: 1016652075
+      UISpritesheet_143: 1260556101
+      UISpritesheet_144: -1629056005
+      UISpritesheet_145: 1773265328
+      UISpritesheet_146: 1394527021
+      UISpritesheet_147: -832883214
+      UISpritesheet_148: 1367825303
+      UISpritesheet_149: 1443833498
+      UISpritesheet_15: 1160873393
+      UISpritesheet_150: 1829219458
+      UISpritesheet_151: -1896307809
+      UISpritesheet_152: -740962945
+      UISpritesheet_16: 265084453
+      UISpritesheet_17: 1037547920
+      UISpritesheet_18: -1991735358
+      UISpritesheet_19: 1387752026
+      UISpritesheet_2: 1773685818
+      UISpritesheet_20: -1630902008
+      UISpritesheet_21: -1829191039
+      UISpritesheet_22: -614305459
+      UISpritesheet_23: 493169936
+      UISpritesheet_24: 518036295
+      UISpritesheet_25: 1128793853
+      UISpritesheet_26: 1365615400
+      UISpritesheet_27: 188792989
+      UISpritesheet_28: -1329341173
+      UISpritesheet_29: 1911405994
+      UISpritesheet_3: -1127583663
+      UISpritesheet_30: 55733302
+      UISpritesheet_31: -350185617
+      UISpritesheet_32: 1472794428
+      UISpritesheet_33: -2146945517
+      UISpritesheet_34: 2125603382
+      UISpritesheet_35: -673145732
+      UISpritesheet_36: 1233124271
+      UISpritesheet_37: -681455735
+      UISpritesheet_38: 750737033
+      UISpritesheet_39: -965294949
+      UISpritesheet_4: 1690619728
+      UISpritesheet_40: 1387670013
+      UISpritesheet_41: -1691995134
+      UISpritesheet_42: 46406782
+      UISpritesheet_43: 967652206
+      UISpritesheet_44: -640595610
+      UISpritesheet_45: 1065802008
+      UISpritesheet_46: -2095435358
+      UISpritesheet_47: 1881568612
+      UISpritesheet_48: -745762824
+      UISpritesheet_49: -1613477523
+      UISpritesheet_5: -30047941
+      UISpritesheet_50: 1849416097
+      UISpritesheet_51: 1419666883
+      UISpritesheet_52: -2044978038
+      UISpritesheet_53: -563381556
+      UISpritesheet_54: -763493865
+      UISpritesheet_55: -571879880
+      UISpritesheet_56: -838427876
+      UISpritesheet_57: -315718350
+      UISpritesheet_58: -434752438
+      UISpritesheet_59: -296401998
+      UISpritesheet_6: 592408166
+      UISpritesheet_60: -1170911610
+      UISpritesheet_61: -277712951
+      UISpritesheet_62: 763216766
+      UISpritesheet_63: 170320930
+      UISpritesheet_64: -975750171
+      UISpritesheet_65: -1767408171
+      UISpritesheet_66: -1398680257
+      UISpritesheet_67: 420904954
+      UISpritesheet_68: 939527921
+      UISpritesheet_69: 1850453912
+      UISpritesheet_7: 91377990
+      UISpritesheet_70: -493336635
+      UISpritesheet_71: -1872483691
+      UISpritesheet_72: -400106511
+      UISpritesheet_73: -112811751
+      UISpritesheet_74: 1974224892
+      UISpritesheet_75: -382837758
+      UISpritesheet_76: 1868407101
+      UISpritesheet_77: 1527257257
+      UISpritesheet_78: -1561280094
+      UISpritesheet_79: 2101119534
+      UISpritesheet_8: 1560900600
+      UISpritesheet_80: 2095438984
+      UISpritesheet_81: 153603483
+      UISpritesheet_82: -360400430
+      UISpritesheet_83: -100315134
+      UISpritesheet_84: 1259052978
+      UISpritesheet_85: -322306717
+      UISpritesheet_86: 527259979
+      UISpritesheet_87: -1535016812
+      UISpritesheet_88: 10565987
+      UISpritesheet_89: -456375702
+      UISpritesheet_9: -23000947
+      UISpritesheet_90: 635253281
+      UISpritesheet_91: 985039794
+      UISpritesheet_92: -1670955285
+      UISpritesheet_93: -127266302
+      UISpritesheet_94: 2139375997
+      UISpritesheet_95: 1839243413
+      UISpritesheet_96: -950415652
+      UISpritesheet_97: -2084862060
+      UISpritesheet_98: -1899057002
+      UISpritesheet_99: -974055167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
