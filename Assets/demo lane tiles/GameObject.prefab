@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8696890946766543508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6120012588630141479}
+  - component: {fileID: 6553775042771750493}
+  - component: {fileID: 3732461043339493127}
+  - component: {fileID: 7346129836457398575}
+  - component: {fileID: 9079311132924979807}
+  - component: {fileID: 8335507534029956291}
+  - component: {fileID: 3100708394824713782}
+  - component: {fileID: 5185214227297625183}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6120012588630141479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 988.5405, y: 6.401266, z: -461.4291}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6553775042771750493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c22dc3f8a33e82840a06f3e435e38f6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+--- !u!114 &3732461043339493127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe9c7d21424b44e85763bc633c0677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+--- !u!114 &7346129836457398575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53357f55cd5dac54090ef738f27649b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnChance: 1
+  collectibles:
+  - {fileID: 11400000, guid: 8def8e0846391444c8816941c60ee9e1, type: 2}
+  - {fileID: 11400000, guid: 4ba51f96b5694a84bb85725234beb4e7, type: 2}
+  - {fileID: 11400000, guid: 87f1e663db1dc5742a59f85eef730d60, type: 2}
+  - {fileID: 11400000, guid: cc6eb0453f3048f41ab471c97f002c2b, type: 2}
+  - {fileID: 11400000, guid: ca4dc0a3ef0608d4b9e86c8ade61f5f8, type: 2}
+  - {fileID: 11400000, guid: 4ea42d094d1cdf347a5a49a49a879299, type: 2}
+  - {fileID: 11400000, guid: 7fb4157fe7cbc6a469eb36ace2d4ebc4, type: 2}
+--- !u!114 &9079311132924979807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ffce2d6ff82e96408b035db5dcc4683, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8335507534029956291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bfc63ea21f5374087c9367aca6aaf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3100708394824713782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ca8993369f810448950a9ead4b31ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scorePerSecond: 9
+--- !u!114 &5185214227297625183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8696890946766543508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 544708793df826a41bafc5ed5b0e20c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectibleMappings:
+  - tag: kalsh
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 100
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: gangajal
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 200
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: tulsimala
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 300
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: rudraksh
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 400
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: trishul
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 500
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: asthikalsh
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 600
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  - tag: rednovel
+    textField: {fileID: 0}
+    redeemButton: {fileID: 0}
+    coinCost: 700
+    inventoryItemImage: {fileID: 0}
+    adsButton: {fileID: 0}
+    adsRewardAmount: 1
+  coinCounts: {fileID: 0}

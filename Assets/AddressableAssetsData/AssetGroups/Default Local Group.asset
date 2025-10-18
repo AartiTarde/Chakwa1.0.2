@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c8007125823662a4fb5335899783ff29
+  m_SerializeEntries:
+  - m_GUID: 066ded06e6a8eb240893ea7b8efb66b4
+    m_Address: Assets/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Generic_Tree_Leaves_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13b3e2d665ea9ce4cb48fe60b585b467
+    m_Address: Assets/Video/11721-231759067_small.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c46bdee8f39aa0b458ce9f713a9ab211
+    m_Address: Assets/Dynamic Grass FX/Shaders/Grass.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 506886dc47d3ef5439345f16ce7adcf9
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-A/A LEFT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2901e7d825e3a2444907abc28aac4802
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-A/A RIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b3c2fc346516fc4eaf8c4e53d709036
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-A/A straight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa00c4e3065a7b544b143b21e0d34f94
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-A/A straight 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8988a6aedc0fd5945a0e3b8701b62f72
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-A/A T 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6ed980de8d992143b8dfb1b0f1b994d
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-B/B left.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a787a432cc8234a428f4829df4fb709f
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-B/B RIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb6caad9c02668b41935965985ec6750
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-B/B STRAIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47324fb363f2912409221ba5f7dd920d
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-B/B T.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c059bec6a1f6ad4db748571ff0f325e
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-C/C LEFT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 004615c886979cd4fbda13331ff9afae
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-C/C Right.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93c8ff6d82da7eb42838c89dddc3da87
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-C/C SRAIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfe810343b45cfc4c8eb6e34b03eda47
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-C/C T.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ad446561a417a64aa8b0adc07983e1f
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-D/D LEFT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c83652e156d7712429b0e4eb646bbb7b
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-D/D straight .prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12e01236c2eb07a43b69e136bad5281b
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-D/D RIGHT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7112620f37941048992fc862426ee68
+    m_Address: Assets/Prefab/Tiles/ALLTILES/Tile-D/D T.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c81e5971a19f87f46822a374fe977fb1
+    m_Address: Assets/Prefab/Player/MainPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a57644302fecbee4baebab9eeaee2e98
+    m_Address: Assets/Prefab/demon/demon/biped/Character_output.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 344ec0b9edd79034597cf3a735dc947d
+    m_Address: Assets/Prefab/PowerUps/Run.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55b9c2b88a9e1e44ca13b6ac02023a0a
+    m_Address: Assets/Prefab/PowerUps/Magnet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebca26797a9cf864e9c915dec9b2d6f2
+    m_Address: Assets/Prefab/SoundPrefab/RunSound.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b382354b6a66604fa8765646790b019
+    m_Address: Assets/Prefab/Coin/Coin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2322b8b613d4aa54dbc397a5ec3d23c6
+    m_Address: Assets/Database/PlayerDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55823db9a8acc84bb72b4b2fe860e8c
+    m_Address: Assets/Scripts/AudioScript/SoundDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a946b5eb387e9594b9606633ccdcf2d1
+    m_Address: Assets/Scripts/PowerUps/PowerUpsData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35de8e88ea1da6e4bbea2e9e3a0d6e9f
+    m_Address: Assets/Scripts/RabbitScripts/RABBIT.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70a771cdeaed2044aa9753fb6a53387c
+    m_Address: Assets/Scripts/AudioScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f494f121684ac794bbc796522fbfbe2a
+    m_Address: Assets/Scripts/CoinSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebc6c041ba21b79459a8881e0313a6b2
+    m_Address: Assets/Scripts/Consumable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a9a88da5a251aa4c830433ae7f2db92
+    m_Address: Assets/Scripts/DemonScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6cd6d5e3077ad54f8f3ac4bc4b06ebd
+    m_Address: Assets/Scripts/GPGS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e77f2fe349f04fb40a268f6912a98170
+    m_Address: Assets/Scripts/Localization
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67411444b55e0754c96426134dc7d3f2
+    m_Address: Assets/Scripts/Login
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 037b2d469311079468d834d2e24d46ef
+    m_Address: Assets/Scripts/Managers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b67821f325fd3724fb1fde7e076ad12c
+    m_Address: Assets/Scripts/PlayerScripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c93ad55472f8b5644886b7a45646ee34
+    m_Address: Assets/Scripts/PowerUps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fed1d37963922d4eb85043486f12d55
+    m_Address: Assets/Scripts/RabbitScripts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8ac08d44b9196a489f3c093782b0e73
+    m_Address: Assets/Scripts/TrackManager
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c78dab095acac94a8655bf6891b5d1e
+    m_Address: Assets/Scripts/VideoScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc6eb0453f3048f41ab471c97f002c2b
+    m_Address: Assets/Scripts/CollectiblesScripts/ChakwaCollectiblesDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea42d094d1cdf347a5a49a49a879299
+    m_Address: Assets/Scripts/CollectiblesScripts/Trishul.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fb4157fe7cbc6a469eb36ace2d4ebc4
+    m_Address: Assets/Scripts/CollectiblesScripts/TulsiMala.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87f1e663db1dc5742a59f85eef730d60
+    m_Address: Assets/Scripts/CollectiblesScripts/Kalsh.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba51f96b5694a84bb85725234beb4e7
+    m_Address: Assets/Scripts/CollectiblesScripts/GangaJal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8def8e0846391444c8816941c60ee9e1
+    m_Address: Assets/Scripts/CollectiblesScripts/AsthiKalsh.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c8cf037dd060a848bbf77486fac2fdd
+    m_Address: Assets/Sound/bgmusic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d43923c8690acb428f5cd8c90242192
+    m_Address: Assets/Scripts/AudioScript/MusicDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19d34a88963057c479586bfb0db46460
+    m_Address: Assets/PlayerControls.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b817ae82d3f0741b2c9dbdb745f48c
+    m_Address: Assets/ALLTILES/assets/Animator/Running.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9aca4619adbd9b44b66b89b82c28cb1
+    m_Address: Assets/Animations/FadeInAnim.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4316d5017a754954c89324f2aa4e8f45
+    m_Address: Assets/Animations/jumping_without_skin.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b95f95f3a70233a43a59f15eeb84d695
+    m_Address: Assets/Animations/Armature_Armature_Armature_Armature_mixamo.com_Layer0.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 90b540a33df877d4192d66b7f78ef825, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8faa1d0aaab89d64ab8a10f8c36c01db, type: 2}
+    - {fileID: 11400000, guid: 363c6472b539f95409715dc94acf32fc, type: 2}

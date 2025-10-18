@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cefae3692d90d8408d4db61a8057944, type: 3}
+  m_Name: SoundDatabase
+  m_EditorClassIdentifier: 
+  coinSoundName: CoinSound
+  coinSound: {fileID: 8300000, guid: 94bc6564974c2a7448bafd2007a0de1f, type: 3}
+  magnet: Magnet
+  magnetSound: {fileID: 8300000, guid: 4c633f6a7e0176b4fbeb143d51dd8232, type: 3}
+  boostUps: BoostUp
+  boostUpsSound: {fileID: 8300000, guid: 4c633f6a7e0176b4fbeb143d51dd8232, type: 3}
+  thriller: Thriller
+  thrillerSound: {fileID: 8300000, guid: 4c633f6a7e0176b4fbeb143d51dd8232, type: 3}
+  run: Run
+  runSound: {fileID: 8300000, guid: 87bec78a302fa434f932d5da31ae65bc, type: 3}
+  runs: Runs
+  runSounds: {fileID: 8300000, guid: 76b76f27c8e88c343aa0f3b0d2f4b93d, type: 3}
+  turnSound: PlayerTurn
+  playerturnSound: {fileID: 8300000, guid: caee661c3bf447c4e830b326d5ddeb58, type: 3}
+  btnSound: Button Sound
+  buttonSound: {fileID: 8300000, guid: 7374b667c42c3d34083afec6648150ff, type: 3}
+  jumpSound: JumpSound
+  jumpplayerSound: {fileID: 8300000, guid: e7370416fdda7ff4d9906a28c5f9c56a, type: 3}
+  onGroundSound: OnGroundSound
+  onGroundplayerSound: {fileID: 8300000, guid: 830d5204e3f5f4b4d86f4ac3ff128ffd, type: 3}
+  demonLaugh: DemonLaughSound
+  demonLaughSound: {fileID: 8300000, guid: 23fc01936207e984191793c4c06d486a, type: 3}
+  specialCoin: specialCoin
+  specialCoins: {fileID: 8300000, guid: 7696213f71b5c53409108db7903cb5ae, type: 3}

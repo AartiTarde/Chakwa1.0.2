@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3c6e08f419523b4eb2527359c6886c3
+timeCreated: 1556494971
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144740
+  packageName: Dynamic Grass FX
+  packageVersion: 1.0
+  assetPath: Assets/Dynamic Grass FX/Shaders/Helpers.cginc
+  uploadId: 308154

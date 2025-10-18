@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3de03377f097da4c9aade791ca14175
+timeCreated: 1556419816
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144740
+  packageName: Dynamic Grass FX
+  packageVersion: 1.0
+  assetPath: Assets/Dynamic Grass FX/Shaders/GrassTessellation.cginc
+  uploadId: 308154

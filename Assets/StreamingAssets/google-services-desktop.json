@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325791918874",
+    "firebase_url": "https://chakwa-c2a3d-default-rtdb.firebaseio.com",
+    "project_id": "chakwa-c2a3d",
+    "storage_bucket": "chakwa-c2a3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325791918874:android:6f655be15ad14a40cfdaa3",
+        "android_client_info": {
+          "package_name": "com.Coreline.Chakwa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXYX1_zUpbfOJaRqjV03_03HxUllRe9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
